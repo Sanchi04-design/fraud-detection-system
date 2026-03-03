@@ -1,11 +1,11 @@
-# 🚨 AI-Powered Fraud Detection System
+#  AI-Powered Fraud Detection System
 
 An end-to-end production-style fraud detection system built using the PaySim mobile money transaction dataset.  
 The project implements advanced feature engineering, class imbalance handling (SMOTE), model comparison (XGBoost vs LightGBM), and explainable AI using SHAP, with an interactive Streamlit dashboard.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This system simulates a real-world financial fraud detection engine used in digital payment platforms.  
 It analyzes transaction behavior patterns to generate fraud probability scores and risk classifications.
@@ -17,7 +17,7 @@ Key highlights:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -30,7 +30,7 @@ Key highlights:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - PaySim Mobile Money Fraud Detection Dataset
 - Simulated financial transactions
@@ -39,7 +39,7 @@ Key highlights:
 
 ---
 
-## 🔬 Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 1. Data Loading & Cleaning
 2. Feature Engineering (25+ features)
@@ -63,7 +63,7 @@ Key highlights:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Model      | F1 Score | ROC-AUC |
 |------------|----------|----------|
@@ -72,7 +72,7 @@ Key highlights:
 
 ---
 
-## 🖥 Streamlit Dashboard
+##  Streamlit Dashboard
 
 Features:
 - Real-time fraud probability scoring
@@ -84,9 +84,9 @@ Features:
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
-### 1️⃣ Clone Repository
+### 1 Clone Repository
 
 ```bash
 git clone https://github.com/yourusername/fraud-detection-system
@@ -113,7 +113,7 @@ fraud-detection-system/
 ├── app/
 ├── run_pipeline.py
 └── README.md
-🎯 Business Impact
+ Business Impact
 
 Enables automated fraud risk assessment
 
