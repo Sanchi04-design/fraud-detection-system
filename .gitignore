@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+venv310/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+data/raw/
+data/processed/
+
+# Model files
+models/*.pkl
+
+# Logs
+logs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
